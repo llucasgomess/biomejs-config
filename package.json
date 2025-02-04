@@ -1,0 +1,26 @@
+{
+  "name": "biomejs-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "biomejs",
+    "configuracoes",
+    "padrao",
+    "npm",
+    "biblioteca"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/configuracoes-padrao-biomejs.git"
+  },
+  "author": "Lucas Gomes",
+  "license": "ISC",
+  "description": "Uma biblioteca npm que fornece configurações padrão para o Biomejs, facilitando a configuração e uso em diferentes projetos.",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  }
+}
